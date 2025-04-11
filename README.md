@@ -74,9 +74,3 @@ Happy coding! 🎉
 
 
 
-
-## 📧 Contact
-
-For any queries or feedback, feel free to reach out via GitHub.
-
-Happy coding! 🎉
