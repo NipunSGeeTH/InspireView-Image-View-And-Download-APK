@@ -1,4 +1,4 @@
-# 🌿 Nature Images View & Download APK 📱
+# 🌿 InspireView Image View & Download APK 📱
 
 Welcome to the **Nature Images View & Download APK** repository! This is a simple project to view high-quality nature images and easily download them to your gallery. It is built using **XML** and **Kotlin** as a part of my learning journey. 🚀
 
