@@ -1,12 +1,12 @@
 # 🌿 InspireView Image View & Download APK 📱
 
-Welcome to the **Nature Images View & Download APK** repository! This is a simple project to view high-quality nature images and easily download them to your gallery. It is built using **XML** and **Kotlin** as a part of my learning journey. 🚀
+Welcome to the **InspireView Image View & Download APK** repository! This is a simple project to view high-quality nature images and easily download them to your gallery. It is built using **XML** and **Kotlin** as a part of my learning journey. 🚀
 
 ---
 
 ## ✨ Features
 
-- 🌄 **View High-Quality Nature Images**: Browse through stunning nature images with ease.
+- 🌄 **View High-Quality  Images**: Browse through stunning  images with ease.
 - ⬇️ **Download to Gallery**: Save your favorite images directly to your gallery with a simple tap.
 - 📱 **Simple & Lightweight**: Designed for an intuitive and seamless user experience.
 
@@ -41,7 +41,7 @@ Here are a few glimpses of the app:
 
 ## 🚀 Usage
 
-1. Open the app and browse through the collection of nature images. 🌳
+1. Open the app and browse through the collection of beauty images. 🌳
 2. Tap on an image to view it in high quality.
 3. Use the download button to save the image to your gallery. 📂
 
