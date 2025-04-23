@@ -22,11 +22,10 @@ Welcome to the **InspireView Image View & Download APK** repository! This is a s
 ### 📥 Installation
 
 1. Visit the [Releases Section](https://github.com/NipunSGeeTH/Nature-Images-view-and-download-APK/releases) of this repository.
-2. Download the latest APK file.
+2. Download the latest APK file from this direct link:  [image.view.apk](https://github.com/NipunSGeeTH/InspireView-Image-View-Download-APK/releases/download/v1.0.0/image.view.apk)
 3. Install the APK on your Android device.
 4. Enjoy the app! 🎉
 
----
 
 
 ## 📸 Screenshots
